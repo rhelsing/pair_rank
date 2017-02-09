@@ -1,4 +1,5 @@
-options = ["torrus", "nyx", "othello", "miasma", "prysm", "vantage", "eden", "scion", "praxis", "saturn", "citrus", "vixis", "victra", "convox", "neptune", "arc", "vue", "exo", "zevo", "modo", "elle", "volo", "cirrus", "kiara", "nova", "ohm", "vox", "yuro", "sirocco", "kerala", "atlantis", "solace", "onyx"].shuffle
+# options = ["torrus", "nyx", "othello", "miasma", "prysm", "vantage", "eden", "scion", "praxis", "saturn", "citrus", "vixis", "victra", "convox", "neptune", "arc", "vue", "exo", "zevo", "modo", "elle", "volo", "cirrus", "kiara", "nova", "ohm", "vox", "yuro", "sirocco", "kerala", "atlantis", "solace", "onyx"].shuffle
+options = ["solace", "benjiro", "neptunely", "prismodo", "benefactory", "zevo"]
 
 #use logic, record answers and a > b, b > c, then a > c, transitive property
 
